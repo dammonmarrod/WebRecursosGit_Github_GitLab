@@ -1,0 +1,42 @@
+{
+	"recursosGit":[
+		{
+			"paginaweb":"https://www.netmentor.es",
+			"informacion que aporta":[
+				{"url":"https://www.netmentor.es/Entrada/introduccion-git-github","Titulo":"Introducción a Git y GitHub "},
+				{"url":"https://www.netmentor.es/Entrada/trabajo-equipo-git-github","Titulo":"Trabajo en equip con Git y GitHub "},
+				{"url":"https://www.netmentor.es/Entrada/resuelve-conflictos-git","Titulo":"Resuelve conflictos en Git"},
+			]
+		}
+		{
+			"paginaweb":"https://naviscode.com/",
+			"informacion que aporta":[
+				{"url":"https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md","Titulo":"Git Cheat Sheet Spanish"},
+				{"url":"https://gitexplorer.com/","Titulo":"Git mediante Comandos"},
+			]
+		}
+		{
+			"paginaweb":"https://ciberninjas.com",
+			"informacion que aporta":[
+				{"url":"https://ciberninjas.com/git-nueva-version-2-31/","Titulo":"Aspectos destacados de Git 2.31"},
+				{"url":"https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#Flujos_de_Trabajo","Titulo":"Libro de Git"},
+			]
+		}
+		{
+			"paginaweb":"https://losapuntesdemajo.now.sh/",
+			"informacion que aporta":[
+				{"url":"https://twitter.com/MajoLedes/status/1372598539411456005","Titulo":"Apuntes de Git y GitHub"},
+				
+			]
+		}
+		{
+			"paginaweb":"https://twitter.com/",
+			"informacion que aporta":[
+				{"url":"https://twitter.com/dgomezdebora/status/1372906726064803841?s=20","Titulo":"Commits en la rama que no era"},
+				{"url":"https://twitter.com/alfonsotwr/status/1374328578758819841?s=20","Titulo":"Visualising Github commits"},
+			]
+		}
+
+
+	]
+}
